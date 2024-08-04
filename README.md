@@ -1,5 +1,5 @@
 # NetRecs-Intelligent-Friend-Recommendation-System
-A friend recommendation system using graph mining to analyze and suggest potential friends based on social network data. Built with Python, NetworkX, and Pandas, it processes and visualizes connections to provide intelligent recommendations.
+NetRecs is a sophisticated friend recommendation system designed to analyze social network data using advanced graph mining techniques. Implemented with Python, NetworkX, and Pandas, this system effectively processes and visualizes social connections to deliver precise and insightful friend recommendations. By leveraging these technologies, NetRecs aims to enhance and streamline the process of discovering meaningful connections within your network.
 
 # Problem Statement:
 Given a directed social graph, the task is to predict missing links to recommend users. This involves solving the problem of link prediction in graphs.
